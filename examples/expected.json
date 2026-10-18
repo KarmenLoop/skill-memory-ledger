@@ -1,0 +1,14 @@
+{
+  "scope": "project:demo",
+  "active": {
+    "report_format": {
+      "key": "report_format",
+      "value": "CSV",
+      "scope": "project:demo",
+      "source": "user correction 13",
+      "updated_at": "2026-10-19T10:00:00Z"
+    }
+  },
+  "conflicts": {},
+  "inactive": {}
+}

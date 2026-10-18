@@ -1,0 +1,20 @@
+{
+  "scope": "project:demo",
+  "as_of": "2026-10-19T12:00:00Z",
+  "observations": [
+    {
+      "key": "report_format",
+      "value": "Markdown",
+      "scope": "project:demo",
+      "source": "user request 12",
+      "updated_at": "2026-10-18T10:00:00Z"
+    },
+    {
+      "key": "report_format",
+      "value": "CSV",
+      "scope": "project:demo",
+      "source": "user correction 13",
+      "updated_at": "2026-10-19T10:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "KarmenLoop Memory Ledger"
+  short_description: "Memory Ledger with reproducible local checks"
+  default_prompt: "Use $karmen-memory-ledger to reconcile these project memories and show any conflicts."
