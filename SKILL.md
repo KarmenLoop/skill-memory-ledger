@@ -3,7 +3,7 @@ name: karmen-memory-ledger
 description: "Reconcile scoped memory records while exposing conflicts and expiry. Use when a user wants durable preferences or decisions carried between sessions."
 metadata:
   author: KarmenLoop
-  version: "0.2.0"
+  version: "0.2.1"
 ---
 
 # Memory Ledger
